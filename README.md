@@ -15,8 +15,11 @@ Estoy en constante aprendizaje de nuevas tecnologias, y cuento con habilidades q
 
 ## Mis medios de contacto:
 ✉ damiparrilli@gmail.com  
+  
 ![WhatsApp](https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/small/filled/whatsapp.svg) +54 1160518730  
+  
 ![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/small/filled/linkedin.svg) damiparrilli  
+  
 ![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/small/filled/discord.svg) alendp
 
 
