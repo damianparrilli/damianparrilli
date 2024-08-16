@@ -6,7 +6,7 @@ Soy un apasionado en el diseño y desarrollo de interfaces, y estoy en búsqueda
 Tengo interés en la creación de plataformas web como solución a problemas de experiencias de usuario, con el compromiso de generar interfaces funcionales, innovadoras y eficientes. 
 
 Cuento con el siguiente conocimiento:
-- HTML5, CSS3, JavaScript para el desarrollo Frontend, además de un leve uso de MySQL y NodeJS por lo cual tengo conocimiento en vinculaciones con Backend y Base de datos.
+- HTML5, CSS3, JavaScript para el desarrollo Frontend, además de MySQL y NodeJS por lo cual tengo conocimiento en vinculaciones con Backend y Base de datos.
 - Diseño UX/UI, principalmente enfocado en Diseño Web, en donde desarrollo la mayoria de interfaces en Figma para diseño y prototipado.
 - Uso de plataformas de diseño tales como el paquete Adobe Creative Cloud.
 - Como algo más secundario, tengo uso de Unity para desarrollo tanto de interfaces como videojuegos con C# Unity, actualmente estoy ejerciendo mi ayudantia en la Universidad Nacional de La Plata con estos conocimientos.
