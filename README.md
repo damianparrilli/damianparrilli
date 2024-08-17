@@ -11,6 +11,7 @@ Cuento con el siguiente conocimiento:
 - Uso de plataformas de diseño tales como el paquete Adobe Creative Cloud.
 - Como algo más secundario, tengo uso de Unity para desarrollo tanto de interfaces como videojuegos con C# Unity, actualmente estoy ejerciendo mi ayudantia en la Universidad Nacional de La Plata con estos conocimientos.
 
+Actualmente estoy estudiando React.js y TypeScript con el objetivo de poder emprender nuevos caminos en el campo de la programación web.
 Estoy en constante aprendizaje de nuevas tecnologias, y cuento con habilidades que me permiten adaptarme a nuevos desafios, generar experiencia y adquirir nuevos conocimientos.
 
 ## Mis medios de contacto:
