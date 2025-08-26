@@ -5,6 +5,7 @@ Soy un apasionado en el diseño y desarrollo de interfaces web.
 Tengo interés en la creación de plataformas web como solución a problemas de experiencias de usuario, con el compromiso de generar interfaces funcionales, innovadoras y eficientes.
 
 Cuento con las siguientes aptitudes: 
+
 • HTML5, CSS3, SASS, JavaScript, Typescript, Astro, TailwindCSS, ReactJS para el desarrollo Frontend, contando con conocimiento en MySQL y NodeJS por el lado de Backend, habiendo usado Express como servidor.
 
 • Cuento con experiencia en WordPress, utilizando de builder Elementor Pro y WooCommerce como framework para e-Commerce.
