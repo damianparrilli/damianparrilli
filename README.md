@@ -6,8 +6,11 @@ Tengo interés en la creación de plataformas web como solución a problemas de 
 
 Cuento con las siguientes aptitudes: 
 • HTML5, CSS3, SASS, JavaScript, Typescript, Astro, TailwindCSS, ReactJS para el desarrollo Frontend, contando con conocimiento en MySQL y NodeJS por el lado de Backend, habiendo usado Express como servidor.
+
 • Cuento con experiencia en WordPress, utilizando de builder Elementor Pro y WooCommerce como framework para e-Commerce.
+
 • Diseño UX/UI, principalmente enfocado en Diseño Web, en donde desarrollo la mayoría de interfaces en Figma o Adobe XD para diseño y prototipado.
+
 • Uso de plataformas de diseño del paquete Adobe Creative Cloud, como Photoshop o Illustrator.
 
 Estoy en búsqueda de proyectos Freelance o trabajos que me permitan explotar estos conocimientos al máximo, para llegar a ser experto en este rubro el cual me gusta y disfruto muchísimo. 
